@@ -1,0 +1,30 @@
+.topimg{
+    padding-left: 90%;
+}
+nav{
+    height: 5px; background-color: red; padding-top: 0%; margin-top: 0%; margin-top: -8px;
+}
+.divbig{
+    padding-left: 55%;
+    padding-top: 6%;
+}
+.divform{
+    padding: 10px;
+    background-color: white;
+    max-width: 300px;
+    padding-left: 5%;
+    padding-top: 6%;
+    
+}
+#college{
+    padding: 5px;
+    /* padding-left: 50%; */
+}
+input[type="text"]{
+    
+    height: 22px;
+    width: 220px;
+}
+body{
+    background-image: url(./Untitled.png);
+}

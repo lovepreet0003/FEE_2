@@ -1,0 +1,28 @@
+/* 1. universal selector*/
+*{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+/*2. id selector*/
+#fruits{
+    color: red;
+    border: 2px dotted green;
+}
+/*3. class selector*/
+.a1{
+    color: green;
+    text-decoration: line-through;
+    font-weight: 800;
+}
+/* 4. element selector */
+p{
+    background-color: pink;
+}
+/* attributes selector*/
+input[type="text"]{
+    background-color: orange;
+}
+input[type="password"]{
+    background-color: green;
+}:placeholder-shown
