@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: 2px solid;
+}
+div{
+    border: 3px solid red;
+    margin: 20px;
+    padding: 30px;
+}
